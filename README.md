@@ -22,6 +22,7 @@ Gollo-respaldo-as2/
 ├── Docs/
 ├── Fase1/
 │   ├── analisis_negocio.md
+│   ├── Diagrama_proceso.png
 │   ├── requerimientos_actores.md
 │   └── planificacion_fase1.md
 └── Fase2/
