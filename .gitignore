@@ -1,0 +1,26 @@
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Archivos temporales de Office
+~$*.docx
+~$*.xlsx
+~$*.pptx
+
+# Archivos temporales
+*.tmp
+*.temp
+*.bak
+
+# LaTeX y Pandoc
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
+# Editores
+.vscode/
+.idea/
